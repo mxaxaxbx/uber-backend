@@ -1,0 +1,2578 @@
+[
+  {
+    "sku": 116,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 342,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1126,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 4467,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 7225,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 7227,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 7230,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 8792,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 8797,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 8803,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 17477,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 25565,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 25569,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 34812,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 41563,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 44636,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 45309,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 66031,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 66033,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 73295,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 81075,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 200483,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 200845,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 201835,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 201897,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 212209,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 212479,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 212480,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 212483,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 220828,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 248201,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 250632,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 255772,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 375092,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 325153,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 327243,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 327244,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 328938,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 331670,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 335901,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 341006,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 344545,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 344548,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 372316,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 416234,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 416553,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 417709,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 424332,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 424333,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 433942,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 488438,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 548960,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 549967,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 580839,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 605229,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 610549,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 613065,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 631186,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 637971,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 637974,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 650716,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 709898,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 732542,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 765987,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 789960,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 791299,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 808981,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 808982,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 964239,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 824157,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 835767,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 835768,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 898581,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 898588,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 898591,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 898596,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 898602,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 906103,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 945597,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 945848,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 967492,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 988719,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1000461,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1005747,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1010308,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1013285,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1018964,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1027675,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1027676,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1035322,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1037570,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1055285,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1081122,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1082351,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1082803,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1082804,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1083746,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1087417,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1087420,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1094591,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1094597,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1094728,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1096454,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1122886,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1141659,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1141662,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1151860,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1151861,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1159250,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1165243,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1183211,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1183381,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1183660,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1183661,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1184788,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1184789,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1198443,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1210940,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1212199,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1212200,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1212502,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1222065,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1240640,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1240770,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1240778,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1240819,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1248755,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1249473,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1249479,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1249525,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1249895,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1249926,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1251225,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1251287,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1251309,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1251311,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1251409,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1251629,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1251759,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1252080,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1252081,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1252082,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1252098,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1252182,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1253155,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1253353,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1253381,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1253559,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1253683,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1254032,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1254086,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1254402,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1254403,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1254969,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1255132,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1255345,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1255347,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1255964,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1256461,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1256693,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1256716,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1256762,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1256838,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1256876,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1256887,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1256888,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1256949,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1257314,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1257330,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1257331,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1257359,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1257633,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1258094,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1258095,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1258156,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1258625,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1258626,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1258627,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1258628,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1259001,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1259280,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1259812,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1259867,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1260012,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1260087,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1260094,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1260095,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1260096,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1260098,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1260099,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1260109,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1260112,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1260539,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1260544,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1261038,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1271998,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1261196,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1261477,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1261498,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1261499,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1261517,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1261518,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1261520,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1261522,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1261523,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1261528,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1261536,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1262075,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1262077,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1262078,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1262251,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1262315,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1262660,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1262662,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1262903,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1262904,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1262943,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1262948,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1263162,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1263454,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1263524,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1263527,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1263534,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1263683,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1263795,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1263801,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1263864,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1263888,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1263893,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1263917,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1264321,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1264376,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1264648,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1264656,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1264679,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1264680,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1264681,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1264682,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1264683,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1264695,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1264696,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1264698,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1264859,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1264893,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265060,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265141,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1265142,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1265144,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1265145,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1265200,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265201,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265205,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265206,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265207,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265208,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265209,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265223,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265274,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265276,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265277,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265278,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265384,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1265537,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265554,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265556,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265611,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265638,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265640,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1280005,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1280375,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265940,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1265983,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1266014,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 8796,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1266326,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1266337,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1266514,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1266532,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 52758,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1266659,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1266660,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1266663,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1266667,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1266669,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1266670,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1266671,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1266673,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1266675,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1266693,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1266696,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1266699,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1266700,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1266757,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 334584,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1266793,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1266889,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1266890,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1266925,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1266926,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 565458,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1267298,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 667720,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 671472,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1267389,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1267402,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1267408,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1267720,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1267945,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1267979,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1267980,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1268062,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1268063,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1268064,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1268065,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 808979,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1268214,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1268215,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 831828,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1268300,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1268324,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 888068,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1268435,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 934211,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 977333,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 989775,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1015401,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1268840,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1268841,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1268849,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1268874,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1068963,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1268928,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1268948,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269004,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269006,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269010,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269015,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269028,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269029,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269030,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269032,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269035,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269166,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269167,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269188,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269189,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1183644,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269199,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1184432,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1269204,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269209,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269210,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269211,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1218931,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269357,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269358,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269399,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269440,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269499,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1269500,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1269509,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1269510,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1269575,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269710,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269756,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269768,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269775,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269776,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269777,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269778,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269779,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269780,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269781,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269782,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269783,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269784,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269785,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269832,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269833,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269834,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269835,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269843,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269867,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269868,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269870,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269871,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269872,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1269936,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1269937,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1269938,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1269939,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1269940,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1269941,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1269945,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1269947,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1269956,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1269995,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1254400,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1270114,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1270116,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1270117,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1270198,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1270232,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1270234,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1270236,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1270237,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1270238,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1270448,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1270683,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1270684,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1270685,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1270686,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1270687,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1270699,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1270700,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1271180,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1271212,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1271213,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1271215,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1271724,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1260097,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1260100,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1260663,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1261023,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1271823,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1271860,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1271876,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1271884,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1271885,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1271920,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1271921,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272029,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272030,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272031,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272032,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1272179,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1265978,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272377,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272385,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272397,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1266154,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1272440,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272442,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1266333,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1272459,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272461,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272500,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272504,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272506,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272507,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272508,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272594,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1272606,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272608,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1266607,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1266705,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1266706,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1272853,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1272914,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272916,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272917,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272919,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272922,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1272935,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273076,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273077,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273078,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1273080,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273081,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273096,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1267110,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1267637,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273227,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273230,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273231,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273238,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273240,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273241,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273250,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1268118,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273253,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273254,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273256,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273269,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273270,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273274,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273275,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273276,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273277,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273284,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273285,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273286,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273287,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273288,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273289,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273301,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273302,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273305,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273503,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1273570,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273571,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273648,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273676,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273677,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273682,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273683,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273684,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273685,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273686,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273689,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273696,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273697,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273766,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273767,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273770,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1273774,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273818,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1270302,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1273838,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273839,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273851,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273875,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1273876,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1273877,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1273881,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1273885,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1273890,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1273891,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1273896,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1273903,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273938,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273940,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273941,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273942,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273943,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273944,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273945,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273958,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273970,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273975,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1273976,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1273977,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273979,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273981,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273984,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273985,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273986,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273987,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273988,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273989,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273990,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1273994,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1274006,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1274027,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1274038,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1274039,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1274042,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1274043,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1274044,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1274128,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1274131,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1274190,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1274204,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1274220,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1274221,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1275983,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1275988,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1275989,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1271800,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1279058,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1279144,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1279373,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1279383,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1279384,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1279473,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1279488,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1279500,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1279508,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1279510,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1279581,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1279584,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1279585,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1279586,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1279587,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1279590,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1279594,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1279595,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1279899,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1279900,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1280314,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1280321,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1280322,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1280323,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1280324,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1280326,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1280350,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1280352,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1280368,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1280383,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1280384,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1280385,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1280386,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1280387,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1280391,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1280392,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1280519,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1280520,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1280628,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1280630,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1280640,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1280647,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1280650,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1280651,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1280657,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1280658,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1280692,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1280697,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1280698,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1280702,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1280703,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1280712,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1280713,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1280716,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1281122,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1281124,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1281197,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1281198,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1281201,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1281206,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1281420,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1281423,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1281424,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1281450,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1281538,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1279413,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1281953,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1281954,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1281959,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1281960,
+    "Categoria_tienda": "EM"
+  },
+  {
+    "sku": 1282243,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 1282264,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1282485,
+    "Categoria_tienda": "CB"
+  },
+  {
+    "sku": 1279953,
+    "Categoria_tienda": "MB"
+  },
+  {
+    "sku": 309167,
+    "Categoria_tienda": "CB"
+  }
+]

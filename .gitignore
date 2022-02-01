@@ -1,0 +1,7 @@
+node_modules/
+dist/
+
+*.js
+.env
+service-account.json
+app.yaml
